@@ -1,2 +1,7 @@
 .idea/
-.snake-env/
+
+snake-env/
+
+__pycache__/
+
+.vscode/
